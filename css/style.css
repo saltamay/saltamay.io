@@ -1,3 +1,43 @@
+
+header {
+  margin-top: 20px;
+}
+
+header a {
+  font-size: 16px;
+}
+
+header a.logo {
+  text-decoration: none;
+}
+
+header a span.name {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 5px;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+header nav ul li {
+  padding: 0 20px;
+}
+
+header nav ul li {
+  text-decoration: none;
+}
+
 .jumbotron {
   background-color: white;
 }
