@@ -1,4 +1,4 @@
-# saltamay.me: Initial desiogn of my personal portfolio page. 
+# saltamay.me: Initial design of my personal portfolio page. 
 
 Static personal portfolio website currently running on  Bootstrap. For updated portfolio you can visit:
 
